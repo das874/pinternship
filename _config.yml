@@ -7,11 +7,11 @@ header_pages:
   - Projects.md
   - Blogs.md
   - Vlogs.md
-  - Git.md
   - Faq.md
   - Genie.md
-  - Ejection.md
   - Support.md
+  - Git.md
+  - Ejection.md
 
 
 markdown: kramdown

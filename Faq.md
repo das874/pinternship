@@ -60,7 +60,7 @@ Mentors and coordinators will engage via **live sessions** and **forums**.
 ## 4. Support and Resolution Protocol
 
 **4.1 Where do I raise my concern initially?**  
-Email **internship-support@vicharanashala.zohodesk.in**.  
+Email **pinternship-support@vicharanashala.zohodesk.in**.  
 Responses are provided **within 2 hours** between **9:00 AM and 9:00 PM**.
 
 **4.2 What if I don’t receive a response within 24 hours?**  
@@ -104,16 +104,19 @@ Not guaranteed. Issued **at the instructor's discretion** based on performance a
 ## 6. Discontinuation Policy
 
 **6.1 What is the expected pace of learning?**  
-While this program is flexible, we expect participants to maintain steady progress. You should aim to complete modules consistently to ensure continuous engagement and build momentum in your learning journey.
+This is a self-paced program, but you are expected to maintain steady progress through all three required components: Core Learning (ViBe Training), Advanced Learning (Case Studies), and Practical Learning (Projects). You should work through the modules consistently to ensure continuous engagement and build momentum in your learning journey.
 
 **6.2 What happens if I don't maintain regular progress?**  
-If you remain inactive or fail to make reasonable progress over an extended period, we may discontinue your access to the program. This policy helps us ensure that active learners have the best support and resources.
+If you remain inactive or fail to make reasonable progress over an extended period, we may discontinue your access to the program. The program has a 2-month duration with a possible 15-day extension based on individual circumstances. This policy helps ensure that active learners have the best support and resources.
 
 **6.3 Can I appeal a discontinuation decision?**  
 No. Discontinuation decisions are **final** and cannot be appealed.
 
 **6.4 Can I rejoin the program after discontinuation?**  
 No. Once discontinued, you cannot rejoin the current program. You would need to apply fresh for any future program offerings, subject to availability.
+
+**6.5 How does the Discontinuation Policy differ from the Ejection Policy?**  
+The Discontinuation Policy addresses prolonged inactivity at an administrative level, while the Ejection Policy (see Section 10) is a real-time, algorithm-based mechanism focused on maintaining cohort momentum and learning quality.
 
 ---
 
@@ -140,7 +143,7 @@ Try these troubleshooting steps in order:
 4. **Use a different browser**
 5. **Clear browsing data and cache**, then try to re-login
 
-If the issue persists after trying all steps, **record the issue** and email it to: **internship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
+If the issue persists after trying all steps, **record the issue** and email it to: **pinternship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
 
 **7.6 I have completed all videos and quizzes in the ViBe course, but my progress is still showing less than 100%. What should I do?**  
 
@@ -179,7 +182,7 @@ If you face this issue, follow the steps below:
 6. Refresh the Cliq page and try joining the channel again.
 
 If the issue persists, take a **screenshot or screen recording** clearly showing the error message, briefly explain the problem, and email it to:  
-**internship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
+**pinternship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
 
 **10.3 I have joined the Cliq Channel but I am unable to message in it. What should I do?**  
 
@@ -188,7 +191,7 @@ This issue is usually caused by restricted collaboration permissions.
 Follow the steps mentioned in **10.2** to enable **Universal Access**, then refresh the page.
 
 If you are still unable to send messages, take a **screenshot or screen recording** of the issue, briefly explain the problem, and email it to:  
-**internship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
+**pinternship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
 
 **8.4 How do I update my profile picture so everyone can view it?**  
 
@@ -244,9 +247,7 @@ If you're facing profile picture issues, try these troubleshooting steps:
 ## 9. MERN Case Studies
 
 **9.1 What are Case Studies?**  
-Case studies are **optional, well-structured, documentation-based lessons** designed to provide extra knowledge and help you apply what you have learned through **hands-on coding**. Each case study focuses on real-world problem-solving, collaborative thinking, and practical implementation to help you become more confident with the technologies covered in the ViBe course.
-
-**Note:** Case studies are **supplementary and not required** for program completion. They are provided for participants who want to deepen their understanding and gain additional practice.
+Case studies are the **second required component** (Advanced Learning) of the Pinternship program. They are well-structured, documentation-based lessons designed to help you apply what you learned in ViBe training through **hands-on coding**. Each case study focuses on real-world problem-solving, collaborative thinking, and practical implementation to help you become more confident with the technologies covered.
 
 Case studies are organized by technology, including:
 - TypeScript Fundamentals
@@ -261,15 +262,22 @@ Each case study includes:
 - Practical coding tasks
 - Best practices and recommended patterns
 
+**9.2 Are Case Studies mandatory?**  
+Yes. Case studies are a **required component** for completing the Pinternship program. All participants must complete the case studies after finishing ViBe training and before moving to the Projects phase.
 
-**9.2 How do I get started with Case Studies?**  
-Case studies are **optional** and for extra knowledge. If you wish to explore them:
+**9.3 How do I get started with Case Studies?**  
+After completing all ViBe videos:
 
 1. Click the **Case Studies** link in the navigation bar at the top of the page.
 2. Select a **technology** and then choose a **lesson**.
 3. Read the entire documentation carefully to understand the concept and tasks to be performed.
-4. Open a code editor (for example, **VS Code**) and implement the tasks in a **single file**, unless specified otherwise.
-5. Optionally upload the file along with your details for each lesson using the provided submission link.
+4. Try to understand each case study first, then attempt to code a solution for it.
+5. Open a code editor (for example, **VS Code**) and implement the tasks.
+6. Getting stuck is normal - ask questions on Cliq, revisit the ViBe videos, and discuss with others.
+7. Submit your work using the provided submission link.
+
+**9.4 What comes after Case Studies?**  
+After completing case studies, you move to the third component: **Practical Learning (Projects)**. You will contribute to real open-source projects, working with our developers to build real applications and add new features.
 
 ## 10. Ejection Policy
 

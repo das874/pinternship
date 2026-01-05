@@ -32,6 +32,8 @@ You'll get an invite link via email. Click it, sign in with your Google account,
 
 Pinternship has three learning tracks. You progress through them at your own pace.
 
+<img src="../Genie-phases.png" alt="Pinternship phases" style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
+
 **Core Learning: ViBe Learning**
 
 Watch all the ViBe videos on MongoDB, Express, React, Node.js, and TypeScript. Watch them thoroughly, take your time, and understand the concepts. Once you complete all the videos, Core Learning is finished, and you move to Advanced Learning.
@@ -48,7 +50,7 @@ After completing ViBe learning and case studies, you will contribute to real ope
 
 **Need help?** Email: pinternship-support@vicharanashala.zohodesk.in (9 AM - 9 PM)
 
-**Have questions?** Join #Pinternship on Cliq.
+**Have questions?** Join #Pinternship - Discussion, #Pinternship - Escalation on Cliq.
 
 ---
 

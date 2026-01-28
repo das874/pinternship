@@ -44,5 +44,5 @@ Also, tag your friends/faculty and the mentor team at IIT Ropar who are helping 
 Try to make the message short and crisp. Include a GenAI image depicting your post, so that it attracts attention.
 
 ### What do you do now?
-Get to LinkedIn and post your experience as a LinkedIn post there and share the link to your post with your fellow interns on the Cliq channel.
+Get to LinkedIn and post your experience as a LinkedIn post there and share the link to your post with your fellow interns.
 
